@@ -1,5 +1,5 @@
 {
-  "name": "React Spotify",
+  "name": "react-spotify",
   "version": "0.1.0",
   "description": "This is a simple exercise for learning the core concepts of Facebook's React.js using data from the Spotify Web API.",
   "main": "gulpfile.js",
